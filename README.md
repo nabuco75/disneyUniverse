@@ -1,0 +1,23 @@
+# disneyUniverse
+Each team should create a project that will have HTML, CSS and Javascript(optional) as technologies. Excellence criteria: 
+-	Responsiveness with media querries
+-	Layout with flexbox or grid
+-	Navigation
+-	Pseudoclasses, pseudoelements
+-	REGEX
+-	No div soup
+-	No inline-styling
+-	 White spacing correctly used
+-	External fonts and stylesheets
+-	Forms with validations
+-	Tables
+-	Icons
+-	OOP 
+-	Promises
+-	Web Requests
+-	DOM Manipulation
+-	Events
+-	localStorage / database / JSON files -> you can pick one or more 
+-	Search functionality
+-	Filter functionality
+-	Modal windows
