@@ -1,0 +1,26 @@
+[33mcommit 3857b65640cc324d14bff2478b865120ffeef9c4[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 9a52f43 6aec3a6
+Author: Patrichi Stefan <patrichistefan26@gmail.com>
+Date:   Wed Jun 7 18:52:54 2023 +0300
+
+    Merge branch 'master' of https://github.com/nabuco75/disneyUniverse
+
+[33mcommit 9a52f43e2be848395433bd05acc6cbf5d5534ed1[m
+Author: Patrichi Stefan <patrichistefan26@gmail.com>
+Date:   Wed Jun 7 18:52:41 2023 +0300
+
+    Added header, and nav with ul
+
+[33mcommit 6aec3a6779d46f6d470553bb213e1a9451e9c724[m
+Author: nabuco75 <135508786+nabuco75@users.noreply.github.com>
+Date:   Wed Jun 7 18:45:02 2023 +0300
+
+    Create README.md
+    
+    Cerinte pentru website-ul disneyUniverse
+
+[33mcommit 5d2d0affcebb5c0d7f1ef4ece7236eb87fd1dbb2[m
+Author: Patrichi Stefan <patrichistefan26@gmail.com>
+Date:   Wed Jun 7 18:37:38 2023 +0300
+
+    first commit
