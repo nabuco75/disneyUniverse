@@ -14,6 +14,7 @@ body {
   width: 80%;
   margin: 20px;
   overflow: hidden;
+  text-align: center;
 }
 #main-header {
   background-color: coral;
@@ -36,6 +37,13 @@ body {
   margin: 20px;
   background-size: cover;
   min-height: 400px;
+}
+.showcase-disneyLand {
+  background-image: url("../images/Disneyland-Banner.jpg");
+  color: #f4f4f4;
+  margin: 20px;
+  background-size: cover;
+  min-height: 600px;
 }
 .container-grid {
   display: grid;
@@ -69,4 +77,16 @@ body {
 }
 .box:nth-child(8) {
   grid-column: 2 / 4;
+}
+.container-item {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.item {
+  background-color: steelblue;
+  font-size: 16px;
+  font-weight: bold;
+  flex-basis: 500px;
+  color: white;
 }
