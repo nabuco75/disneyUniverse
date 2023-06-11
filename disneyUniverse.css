@@ -67,3 +67,6 @@ body {
 .box:nth-child(6) {
   grid-column: 2 / 4;
 }
+.box:nth-child(8) {
+  grid-column: 2 / 4;
+}
