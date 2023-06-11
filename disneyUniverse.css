@@ -31,7 +31,7 @@ body {
   font-weight: bold;
 }
 .showcase {
-  background-image: url("../images/Disney_banner.png");
+  background-image: url("./images/Disney_banner.png");
   color: #f4f4f4;
   margin: 20px;
   background-size: cover;
